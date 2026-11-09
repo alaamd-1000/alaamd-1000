@@ -1,117 +1,58 @@
 
 <div align="center">
 
-# Alaa Mahmoud
+# Alaa
 
 **Data Science · Complex Systems · Disaster Modeling**
+
+<br>
+
+Exploring data, computational methods, and the interactions between human and environmental systems.
+
+<br>
 
 </div>
 
 ---
 
-### About
+### 🌍 Areas of Interest
 
-Interested in data science, computational methods, and understanding complex systems and real-world phenomena.
+- Data Science & Statistical Analysis
+- Complex Systems & Network Analysis
+- Disaster Modeling & Risk Analysis
+- Geospatial Analysis
+- Agent-Based Modeling
 
----
+### 🛠 Tools & Technologies
 
-### Interests
+**Programming**
 
-```mermaid
-flowchart TB
-    A((Interests))
-    A --> B[Data Science]
-    A --> C[Complex Systems]
-    A --> D[Disaster Modeling]
-    A --> E[Geospatial Analysis]
-    A --> F[Computational Modeling]
+`Python`
 
-    style A fill:#263F55,color:#fff,stroke:#263F55
-    style B fill:#40566A,color:#fff,stroke:#40566A
-    style C fill:#40566A,color:#fff,stroke:#40566A
-    style D fill:#40566A,color:#fff,stroke:#40566A
-    style E fill:#40566A,color:#fff,stroke:#40566A
-    style F fill:#40566A,color:#fff,stroke:#40566A
-```
+**Data Analysis**
 
----
+`NumPy` · `Pandas` · `SciPy` · `Statsmodels`
 
-### Tools & Technologies
+**Visualization**
 
-```mermaid
-flowchart TB
-    A((Python))
+`Matplotlib` · `Seaborn` · `Plotly`
 
-    A --> B[Data Analysis]
-    A --> C[Visualization]
-    A --> D[Machine Learning]
-    A --> E[Deep Learning]
+**Machine Learning**
 
-    B --> B1[Pandas]
-    B --> B2[NumPy]
-    B --> B3[SciPy]
-    B --> B4[OpenPyXL]
+`Scikit-learn` · `PyTorch` · `Torchvision`
 
-    C --> C1[Matplotlib]
-    C --> C2[Seaborn]
-    C --> C3[Plotly]
+**Computational Tools**
 
-    D --> D1[Scikit-learn]
-    D --> D2[Joblib]
+`NetworkX` · `SymPy` · `Jupyter Notebook`
 
-    E --> E1[PyTorch]
-    E --> E2[Torchvision]
+**Development**
 
-    style A fill:#263F55,color:#fff,stroke:#263F55
-    style B fill:#40566A,color:#fff,stroke:#40566A
-    style C fill:#40566A,color:#fff,stroke:#40566A
-    style D fill:#40566A,color:#fff,stroke:#40566A
-    style E fill:#40566A,color:#fff,stroke:#40566A
-```
-
-```mermaid
-flowchart TB
-    A((Scientific Tools))
-
-    A --> B[Statistics]
-    A --> C[Mathematics]
-    A --> D[Networks]
-    A --> E[Data Processing]
-
-    B --> B1[Statsmodels]
-    B --> B2[Patsy]
-
-    C --> C1[SymPy]
-    C --> C2[Mpmath]
-
-    D --> D1[NetworkX]
-
-    E --> E1[Requests]
-    E --> E2[KaggleHub]
-    E --> E3[Fsspec]
-    E --> E4[PyYAML]
-    E --> E5[JSONSchema]
-
-    style A fill:#263F55,color:#fff,stroke:#263F55
-    style B fill:#40566A,color:#fff,stroke:#40566A
-    style C fill:#40566A,color:#fff,stroke:#40566A
-    style D fill:#40566A,color:#fff,stroke:#40566A
-    style E fill:#40566A,color:#fff,stroke:#40566A
-```
-
----
-
-### Development Environment
-
-- 🐍 Python
-- 📓 Jupyter Notebook
-- 💻 VS Code
-- 🔧 Git & GitHub
+`VS Code` · `Git` · `GitHub`
 
 ---
 
 <div align="center">
 
-*Learning · Exploring · Creating*
+<sub>Learning · Exploring · Building</sub>
 
 </div>
