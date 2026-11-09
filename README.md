@@ -25,6 +25,8 @@ I mainly work with Python and R for data analysis and computation. I'm gradually
 
 There is always something new to learn, and I enjoy taking the time to understand not only how a method works, but also when and why it can be useful.
 
+---
+
 ### 🌍 interests
 
 - Data Science & Data Analysis
@@ -38,61 +40,83 @@ There is always something new to learn, and I enjoy taking the time to understan
 - Human Behavior & Environmental Interactions
 - Network Science & Computational Modeling
 
-### 💻 technologies & tools
+---
 
-**Programming Languages**
+## ⚙️ Technologies & Tools
 
-`Python` · `R`
+### Programming Languages
 
-**Data Manipulation & Analysis**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-`Pandas` · `NumPy` · `SciPy` · `Statsmodels` · `OpenPyXL`
+### Data Analysis
 
-**Data Visualization**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-4051B5?style=for-the-badge)
+![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge)
 
-`Matplotlib` · `Seaborn` · `Plotly`
+### Data Visualization
 
-**Machine Learning & Deep Learning**
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-`PyTorch` · `Torchvision`
+### Machine Learning
 
-**Mathematics & Computational Analysis**
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Torchvision](https://img.shields.io/badge/Torchvision-EE4C2C?style=for-the-badge)
 
-`SymPy` · `NetworkX` · `SciPy`
+### Mathematics & Network Analysis
 
-**Data Collection & Processing**
+![SymPy](https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=sympy&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-68A063?style=for-the-badge)
 
-`Requests` · `KaggleHub` · `Pillow`
+---
 
-**Development Environments**
+## 📊 GitHub Statistics
 
-`Jupyter Notebook` · `IPython` · `VS Code` · `RStudio`
+<div align="center">
 
-**Version Control**
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alaamd-1000&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
 
-`Git` · `GitHub`
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alaamd-1000&theme=github-dark-blue&hide_border=true" />
 
-### 🔭 currently exploring
+</div>
 
-**Geospatial Analysis & Remote Sensing**
+---
 
-`GeoPandas` · `Rasterio` · `Shapely` · `Xarray` · `QGIS`
+## 💻 Most Used Languages
 
-**Machine Learning**
+<div align="center">
 
-`Scikit-learn` · `XGBoost` · `LightGBM`
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaamd-1000&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
-**R Ecosystem**
+</div>
 
-`tidyverse` · `dplyr` · `ggplot2` · `tidyr`
+---
 
-**Agent-Based Modeling & Simulation**
+## 🚀 Featured Projects
 
-`NetLogo` · `Mesa` · `SimPy`
+<div align="center">
 
-**Spatial Databases**
+<!-- Replace the repository names below with your actual project repository names -->
 
-`PostgreSQL` · `PostGIS`
+<a href="https://github.com/alaamd-1000/YOUR-PROJECT-1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=alaamd-1000&repo=YOUR-PROJECT-1&theme=github_dark&hide_border=true" />
+</a>
+
+<a href="https://github.com/alaamd-1000/YOUR-PROJECT-2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=alaamd-1000&repo=YOUR-PROJECT-2&theme=github_dark&hide_border=true" />
+</a>
+
+<a href="https://github.com/alaamd-1000/YOUR-PROJECT-3">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=alaamd-1000&repo=YOUR-PROJECT-3&theme=github_dark&hide_border=true" />
+</a>
+
+</div>
 
 ---
 
