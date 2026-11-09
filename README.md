@@ -1,44 +1,77 @@
 
+
 <div align="center">
 
-# i'm alaa
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:071321,50:102D46,100:071321&text=ALAA&fontColor=E6F4FF&fontSize=75&fontAlignY=48&desc=DATA%20SCIENCE%20%7C%20COMPLEX%20SYSTEMS%20%7C%20DISASTER%20MODELING&descSize=13&descAlignY=72&stroke=58A6FF&strokeWidth=1"/>
 
-**Data Science · Complex Systems · Disaster Modeling**
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=19&duration=3500&pause=1000&color=79C0FF&center=true&vCenter=true&width=650&lines=Exploring+Patterns+Behind+Complex+Systems;Understanding+the+World+Through+Data;From+Data+Analysis+to+Computational+Modeling" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/DATA%20SCIENCE-0D1B2A?style=for-the-badge&logo=python&logoColor=79C0FF"/>
+<img src="https://img.shields.io/badge/COMPLEX%20SYSTEMS-0D1B2A?style=for-the-badge&logo=probot&logoColor=79C0FF"/>
+<img src="https://img.shields.io/badge/DISASTER%20MODELING-0D1B2A?style=for-the-badge&logo=googleearth&logoColor=79C0FF"/>
+
+<br/><br/>
+
+<img width="65%" src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
-### a little about me
+### 𝐀 𝐋𝐈𝐓𝐓𝐋𝐄 𝐀𝐁𝐎𝐔𝐓 𝐌𝐄 :
 
-Hi! I'm Alaa. I enjoy learning about the world through data, exploring new ideas, and understanding how different things are connected.
+𝐇𝐢! 𝐈'𝐦 𝐀𝐥𝐚𝐚. 𝐈 𝐞𝐧𝐣𝐨𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐚𝐛𝐨𝐮𝐭 𝐭𝐡𝐞 𝐰𝐨𝐫𝐥𝐝 𝐭𝐡𝐫𝐨𝐮𝐠𝐡 𝐝𝐚𝐭𝐚, 𝐞𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 𝐧𝐞𝐰 𝐢𝐝𝐞𝐚𝐬, 𝐚𝐧𝐝 𝐮𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝𝐢𝐧𝐠 𝐡𝐨𝐰 𝐝𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐭 𝐭𝐡𝐢𝐧𝐠𝐬 𝐚𝐫𝐞 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝.
 
-I'm interested in data science because it offers many ways to explore information, discover patterns, and answer questions. I enjoy working with datasets, trying different methods of analysis, and learning how to turn raw data into something meaningful.
+𝐈'𝐦 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐞𝐝 𝐢𝐧 𝐝𝐚𝐭𝐚 𝐬𝐜𝐢𝐞𝐧𝐜𝐞 𝐛𝐞𝐜𝐚𝐮𝐬𝐞 𝐢𝐭 𝐨𝐟𝐟𝐞𝐫𝐬 𝐦𝐚𝐧𝐲 𝐰𝐚𝐲𝐬 𝐭𝐨 𝐞𝐱𝐩𝐥𝐨𝐫𝐞 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧, 𝐝𝐢𝐬𝐜𝐨𝐯𝐞𝐫 𝐩𝐚𝐭𝐭𝐞𝐫𝐧𝐬, 𝐚𝐧𝐝 𝐚𝐧𝐬𝐰𝐞𝐫 𝐪𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬. 𝐈 𝐞𝐧𝐣𝐨𝐲 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐝𝐚𝐭𝐚𝐬𝐞𝐭𝐬, 𝐭𝐫𝐲𝐢𝐧𝐠 𝐝𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐭 𝐦𝐞𝐭𝐡𝐨𝐝𝐬 𝐨𝐟 𝐚𝐧𝐚𝐥𝐲𝐬𝐢𝐬, 𝐚𝐧𝐝 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐡𝐨𝐰 𝐭𝐨 𝐭𝐮𝐫𝐧 𝐫𝐚𝐰 𝐝𝐚𝐭𝐚 𝐢𝐧𝐭𝐨 𝐬𝐨𝐦𝐞𝐭𝐡𝐢𝐧𝐠 𝐦𝐞𝐚𝐧𝐢𝐧𝐠𝐟𝐮𝐥.
 
-My interests go beyond data analysis alone. I'm also curious about complex systems and the way different parts of a system influence one another. This is especially interesting when looking at the relationship between people, the environment, cities, and natural events.
+𝐌𝐲 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐬 𝐠𝐨 𝐛𝐞𝐲𝐨𝐧𝐝 𝐝𝐚𝐭𝐚 𝐚𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐚𝐥𝐨𝐧𝐞. 𝐈'𝐦 𝐚𝐥𝐬𝐨 𝐜𝐮𝐫𝐢𝐨𝐮𝐬 𝐚𝐛𝐨𝐮𝐭 𝐜𝐨𝐦𝐩𝐥𝐞𝐱 𝐬𝐲𝐬𝐭𝐞𝐦𝐬 𝐚𝐧𝐝 𝐭𝐡𝐞 𝐰𝐚𝐲 𝐝𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐭 𝐩𝐚𝐫𝐭𝐬 𝐨𝐟 𝐚 𝐬𝐲𝐬𝐭𝐞𝐦 𝐢𝐧𝐟𝐥𝐮𝐞𝐧𝐜𝐞 𝐨𝐧𝐞 𝐚𝐧𝐨𝐭𝐡𝐞𝐫. 𝐓𝐡𝐢𝐬 𝐢𝐬 𝐞𝐬𝐩𝐞𝐜𝐢𝐚𝐥𝐥𝐲 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐢𝐧𝐠 𝐰𝐡𝐞𝐧 𝐥𝐨𝐨𝐤𝐢𝐧𝐠 𝐚𝐭 𝐭𝐡𝐞 𝐫𝐞𝐥𝐚𝐭𝐢𝐨𝐧𝐬𝐡𝐢𝐩 𝐛𝐞𝐭𝐰𝐞𝐞𝐧 𝐩𝐞𝐨𝐩𝐥𝐞, 𝐭𝐡𝐞 𝐞𝐧𝐯𝐢𝐫𝐨𝐧𝐦𝐞𝐧𝐭, 𝐜𝐢𝐭𝐢𝐞𝐬, 𝐚𝐧𝐝 𝐧𝐚𝐭𝐮𝐫𝐚𝐥 𝐞𝐯𝐞𝐧𝐭𝐬.
 
-I've always found natural disasters an interesting subject to explore. They involve many connected factors, from environmental conditions and geographical features to human behavior and infrastructure. I like the idea of studying these connections using data, statistical methods, and computer simulations.
+𝐈'𝐯𝐞 𝐚𝐥𝐰𝐚𝐲𝐬 𝐟𝐨𝐮𝐧𝐝 𝐧𝐚𝐭𝐮𝐫𝐚𝐥 𝐝𝐢𝐬𝐚𝐬𝐭𝐞𝐫𝐬 𝐚𝐧 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐢𝐧𝐠 𝐬𝐮𝐛𝐣𝐞𝐜𝐭 𝐭𝐨 𝐞𝐱𝐩𝐥𝐨𝐫𝐞. 𝐓𝐡𝐞𝐲 𝐢𝐧𝐯𝐨𝐥𝐯𝐞 𝐦𝐚𝐧𝐲 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝 𝐟𝐚𝐜𝐭𝐨𝐫𝐬, 𝐟𝐫𝐨𝐦 𝐞𝐧𝐯𝐢𝐫𝐨𝐧𝐦𝐞𝐧𝐭𝐚𝐥 𝐜𝐨𝐧𝐝𝐢𝐭𝐢𝐨𝐧𝐬 𝐚𝐧𝐝 𝐠𝐞𝐨𝐠𝐫𝐚𝐩𝐡𝐢𝐜𝐚𝐥 𝐟𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐭𝐨 𝐡𝐮𝐦𝐚𝐧 𝐛𝐞𝐡𝐚𝐯𝐢𝐨𝐫 𝐚𝐧𝐝 𝐢𝐧𝐟𝐫𝐚𝐬𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞. 𝐈 𝐥𝐢𝐤𝐞 𝐭𝐡𝐞 𝐢𝐝𝐞𝐚 𝐨𝐟 𝐬𝐭𝐮𝐝𝐲𝐢𝐧𝐠 𝐭𝐡𝐞𝐬𝐞 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧𝐬 𝐮𝐬𝐢𝐧𝐠 𝐝𝐚𝐭𝐚, 𝐬𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐚𝐥 𝐦𝐞𝐭𝐡𝐨𝐝𝐬, 𝐚𝐧𝐝 𝐜𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐬𝐢𝐦𝐮𝐥𝐚𝐭𝐢𝐨𝐧𝐬.
 
-I also enjoy exploring how mathematical and computational models can represent real-world situations. In particular, I'm interested in machine learning, geospatial analysis, and agent-based modeling, and how these approaches can help us understand systems that are constantly changing.
+𝐈 𝐚𝐥𝐬𝐨 𝐞𝐧𝐣𝐨𝐲 𝐞𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 𝐡𝐨𝐰 𝐦𝐚𝐭𝐡𝐞𝐦𝐚𝐭𝐢𝐜𝐚𝐥 𝐚𝐧𝐝 𝐜𝐨𝐦𝐩𝐮𝐭𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐦𝐨𝐝𝐞𝐥𝐬 𝐜𝐚𝐧 𝐫𝐞𝐩𝐫𝐞𝐬𝐞𝐧𝐭 𝐫𝐞𝐚𝐥-𝐰𝐨𝐫𝐥𝐝 𝐬𝐢𝐭𝐮𝐚𝐭𝐢𝐨𝐧𝐬. 𝐈𝐧 𝐩𝐚𝐫𝐭𝐢𝐜𝐮𝐥𝐚𝐫, 𝐈'𝐦 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐞𝐝 𝐢𝐧 𝐦𝐚𝐜𝐡𝐢𝐧𝐞 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠, 𝐠𝐞𝐨𝐬𝐩𝐚𝐭𝐢𝐚𝐥 𝐚𝐧𝐚𝐥𝐲𝐬𝐢𝐬, 𝐚𝐧𝐝 𝐚𝐠𝐞𝐧𝐭-𝐛𝐚𝐬𝐞𝐝 𝐦𝐨𝐝𝐞𝐥𝐢𝐧𝐠, 𝐚𝐧𝐝 𝐡𝐨𝐰 𝐭𝐡𝐞𝐬𝐞 𝐚𝐩𝐩𝐫𝐨𝐚𝐜𝐡𝐞𝐬 𝐜𝐚𝐧 𝐡𝐞𝐥𝐩 𝐮𝐬 𝐮𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝 𝐬𝐲𝐬𝐭𝐞𝐦𝐬 𝐭𝐡𝐚𝐭 𝐚𝐫𝐞 𝐜𝐨𝐧𝐬𝐭𝐚𝐧𝐭𝐥𝐲 𝐜𝐡𝐚𝐧𝐠𝐢𝐧𝐠.
 
-I mainly work with Python and R for data analysis and computation. I'm gradually expanding my knowledge of statistics, machine learning, spatial data, and modeling tools, learning through practice and working on different datasets.
+𝐈 𝐦𝐚𝐢𝐧𝐥𝐲 𝐰𝐨𝐫𝐤 𝐰𝐢𝐭𝐡 𝐏𝐲𝐭𝐡𝐨𝐧 𝐚𝐧𝐝 𝐑 𝐟𝐨𝐫 𝐝𝐚𝐭𝐚 𝐚𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐚𝐧𝐝 𝐜𝐨𝐦𝐩𝐮𝐭𝐚𝐭𝐢𝐨𝐧. 𝐈'𝐦 𝐠𝐫𝐚𝐝𝐮𝐚𝐥𝐥𝐲 𝐞𝐱𝐩𝐚𝐧𝐝𝐢𝐧𝐠 𝐦𝐲 𝐤𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 𝐨𝐟 𝐬𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬, 𝐦𝐚𝐜𝐡𝐢𝐧𝐞 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠, 𝐬𝐩𝐚𝐭𝐢𝐚𝐥 𝐝𝐚𝐭𝐚, 𝐚𝐧𝐝 𝐦𝐨𝐝𝐞𝐥𝐢𝐧𝐠 𝐭𝐨𝐨𝐥𝐬, 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐭𝐡𝐫𝐨𝐮𝐠𝐡 𝐩𝐫𝐚𝐜𝐭𝐢𝐜𝐞 𝐚𝐧𝐝 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐝𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐭 𝐝𝐚𝐭𝐚𝐬𝐞𝐭𝐬.
 
-There is always something new to learn, and I enjoy taking the time to understand not only how a method works, but also when and why it can be useful.
+𝐓𝐡𝐞𝐫𝐞 𝐢𝐬 𝐚𝐥𝐰𝐚𝐲𝐬 𝐬𝐨𝐦𝐞𝐭𝐡𝐢𝐧𝐠 𝐧𝐞𝐰 𝐭𝐨 𝐥𝐞𝐚𝐫𝐧, 𝐚𝐧𝐝 𝐈 𝐞𝐧𝐣𝐨𝐲 𝐭𝐚𝐤𝐢𝐧𝐠 𝐭𝐡𝐞 𝐭𝐢𝐦𝐞 𝐭𝐨 𝐮𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝 𝐧𝐨𝐭 𝐨𝐧𝐥𝐲 𝐡𝐨𝐰 𝐚 𝐦𝐞𝐭𝐡𝐨𝐝 𝐰𝐨𝐫𝐤𝐬, 𝐛𝐮𝐭 𝐚𝐥𝐬𝐨 𝐰𝐡𝐞𝐧 𝐚𝐧𝐝 𝐰𝐡𝐲 𝐢𝐭 𝐜𝐚𝐧 𝐛𝐞 𝐮𝐬𝐞𝐟𝐮𝐥.
+
 
 ---
 
-### 🌍 interests
+<div align="center">
 
-- Data Science & Data Analysis
-- Statistics & Mathematical Modeling
-- Complex Systems & Systems Thinking
-- Disaster Risk & Disaster Modeling
-- Earth Systems & Environmental Data
-- Geospatial Analysis & Remote Sensing
-- Machine Learning & Deep Learning
-- Agent-Based Modeling & Simulation
-- Human Behavior & Environmental Interactions
-- Network Science & Computational Modeling
+### 𝐑𝐄𝐒𝐄𝐀𝐑𝐂𝐇 𝐈𝐍𝐓𝐄𝐑𝐄𝐒𝐓𝐒
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:071321,50:102D46,100:071321&height=3"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=17&duration=2200&pause=500&color=79C0FF&center=true&vCenter=true&width=700&height=35&lines=DATA+SCIENCE+%26+STATISTICAL+ANALYSIS;COMPLEX+SYSTEMS+%26+NETWORK+SCIENCE;EARTH+SYSTEMS+%26+REMOTE+SENSING;DISASTER+RISK+%26+COMPUTATIONAL+MODELING;AGENT-BASED+MODELING+%26+SIMULATION;HUMAN-ENVIRONMENT+INTERACTIONS"/>
+
+<br/>
+
+<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&color=0:071321,50:1B4965,100:071321&height=2"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/01-Data%20Science-0D1B2A?style=flat-square&labelColor=071321"/>
+<img src="https://img.shields.io/badge/02-Mathematical%20Modeling-0D1B2A?style=flat-square&labelColor=071321"/>
+<img src="https://img.shields.io/badge/03-Complex%20Systems-0D1B2A?style=flat-square&labelColor=071321"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/04-Disaster%20Modeling-0D1B2A?style=flat-square&labelColor=071321"/>
+<img src="https://img.shields.io/badge/05-Geospatial%20Analysis-0D1B2A?style=flat-square&labelColor=071321"/>
+<img src="https://img.shields.io/badge/06-Agent--Based%20Modeling-0D1B2A?style=flat-square&labelColor=071321"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Exploring+the+connections+between+human+and+natural+systems;Understanding+complexity+through+data+and+simulation"/>
+
+</div>
 
 ---
 
