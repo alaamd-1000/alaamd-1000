@@ -76,15 +76,17 @@ There is always something new to learn, and I enjoy taking the time to understan
 
 ---
 
-## 📊 GitHub Statistics
+<h2 align="center">📊 GitHub Statistics</h2>
 
-<div align="center">
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alaamd-1000&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=alaamd-1000&theme=github-dark-blue&hide_border=true" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alaamd-1000&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+<p align="center">
+  <img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alaamd-1000&theme=github_dark" />
+</p>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alaamd-1000&theme=github-dark-blue&hide_border=true" />
-
-</div>
 
 ---
 ## Research Interests
@@ -99,18 +101,36 @@ There is always something new to learn, and I enjoy taking the time to understan
 </p>
 ---
 
+<h2 align="center">🚀 Featured Projects</h2>
 
-## 🚀 Featured Projects
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>📊 Data Science Projects</h3>
+      <p>Data analysis, statistics, visualization, and machine learning experiments.</p>
+      <a href="https://github.com/alaamd-1000/Data-Science-Projects">
+        <img src="https://img.shields.io/badge/Explore_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3>🌐 Agent-Based Modeling</h3>
+      <p>Agent-based modeling, simulation, and experiments with complex systems.</p>
+      <a href="https://github.com/alaamd-1000/Agent-Based-Modeling">
+        <img src="https://img.shields.io/badge/Explore_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>🐍 Python</h3>
+      <p>Python learning notebooks, library exercises, and coding experiments.</p>
+      <a href="https://github.com/alaamd-1000/Python">
+        <img src="https://img.shields.io/badge/Explore_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-
-<a href="https://github.com/alaamd-1000/Data-Science-Projects">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=alaamd-1000&repo=Data-Science-Projects&theme=github_dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/alaamd-1000/Agent-Based-Modeling">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=alaamd-1000&repo=Agent-Based-Modeling&theme=github_dark&hide_border=true" />
-</a>
 
 </div>
 
