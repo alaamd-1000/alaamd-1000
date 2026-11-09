@@ -87,15 +87,16 @@ There is always something new to learn, and I enjoy taking the time to understan
 </div>
 
 ---
+## Research Interests
 
-## 💻 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaamd-1000&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
-</div>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_Science-1E88E5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Complex_Systems-7E57C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Disaster_Modeling-EF6C00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Geospatial_Analysis-2E8B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agent_Based_Modeling-00897B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Remote_Sensing-546E7A?style=for-the-badge"/>
+</p>
 ---
 
 
