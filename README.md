@@ -1,71 +1,103 @@
 
 <div align="center">
 
-# Alaa
+# i'm alaa
 
 **Data Science · Complex Systems · Disaster Modeling**
 
 </div>
 
-<table>
-<tr>
-<td width="62%" valign="top">
+---
 
-### About
+### a little about me
 
-Exploring data science, computational modeling, and the interactions between human and environmental systems.
+Hi! I'm Alaa. I enjoy learning about the world through data, exploring new ideas, and understanding how different things are connected.
 
-My interests include understanding complex systems, analyzing disaster-related data, and exploring computational approaches to real-world challenges.
+I'm interested in data science because it offers many ways to explore information, discover patterns, and answer questions. I enjoy working with datasets, trying different methods of analysis, and learning how to turn raw data into something meaningful.
 
-### Areas of Interest
+My interests go beyond data analysis alone. I'm also curious about complex systems and the way different parts of a system influence one another. This is especially interesting when looking at the relationship between people, the environment, cities, and natural events.
 
-- 🌍 Earth Systems & Environmental Data
-- 📊 Data Science & Statistical Analysis
-- 🌀 Complex Systems & Network Analysis
-- 🌊 Disaster Risk & Modeling
-- 🧩 Agent-Based Modeling
-- 🗺️ Geospatial Analysis
+I've always found natural disasters an interesting subject to explore. They involve many connected factors, from environmental conditions and geographical features to human behavior and infrastructure. I like the idea of studying these connections using data, statistical methods, and computer simulations.
 
-### Tools & Technologies
+I also enjoy exploring how mathematical and computational models can represent real-world situations. In particular, I'm interested in machine learning, geospatial analysis, and agent-based modeling, and how these approaches can help us understand systems that are constantly changing.
 
-**Programming**
+I mainly work with Python and R for data analysis and computation. I'm gradually expanding my knowledge of statistics, machine learning, spatial data, and modeling tools, learning through practice and working on different datasets.
 
-`Python`
+There is always something new to learn, and I enjoy taking the time to understand not only how a method works, but also when and why it can be useful.
 
-**Data Analysis**
+### 🌍 interests
 
-`NumPy` · `Pandas` · `SciPy` · `Statsmodels`
+- Data Science & Data Analysis
+- Statistics & Mathematical Modeling
+- Complex Systems & Systems Thinking
+- Disaster Risk & Disaster Modeling
+- Earth Systems & Environmental Data
+- Geospatial Analysis & Remote Sensing
+- Machine Learning & Deep Learning
+- Agent-Based Modeling & Simulation
+- Human Behavior & Environmental Interactions
+- Network Science & Computational Modeling
 
-**Visualization**
+### 💻 technologies & tools
+
+**Programming Languages**
+
+`Python` · `R`
+
+**Data Manipulation & Analysis**
+
+`Pandas` · `NumPy` · `SciPy` · `Statsmodels` · `OpenPyXL`
+
+**Data Visualization**
 
 `Matplotlib` · `Seaborn` · `Plotly`
 
+**Machine Learning & Deep Learning**
+
+`PyTorch` · `Torchvision`
+
+**Mathematics & Computational Analysis**
+
+`SymPy` · `NetworkX` · `SciPy`
+
+**Data Collection & Processing**
+
+`Requests` · `KaggleHub` · `Pillow`
+
+**Development Environments**
+
+`Jupyter Notebook` · `IPython` · `VS Code` · `RStudio`
+
+**Version Control**
+
+`Git` · `GitHub`
+
+### 🔭 currently exploring
+
+**Geospatial Analysis & Remote Sensing**
+
+`GeoPandas` · `Rasterio` · `Shapely` · `Xarray` · `QGIS`
+
 **Machine Learning**
 
-`Scikit-learn` · `PyTorch` · `Torchvision`
+`Scikit-learn` · `XGBoost` · `LightGBM`
 
-**Computational Tools**
+**R Ecosystem**
 
-`NetworkX` · `SymPy` · `Jupyter`
+`tidyverse` · `dplyr` · `ggplot2` · `tidyr`
 
-**Development**
+**Agent-Based Modeling & Simulation**
 
-`VS Code` · `Git` · `GitHub`
+`NetLogo` · `Mesa` · `SimPy`
 
-</td>
+**Spatial Databases**
 
-<td width="38%" valign="top">
-
-<img src="./assets/profile-visual.png" width="100%" alt="Profile visual">
-
-</td>
-</tr>
-</table>
+`PostgreSQL` · `PostGIS`
 
 ---
 
 <div align="center">
 
-<sub>Python · Data · Modeling · Systems</sub>
+*Exploring data, understanding systems, and learning something new every day.*
 
 </div>
