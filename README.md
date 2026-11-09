@@ -1,183 +1,213 @@
+
+<!-- =====================================================
+     ALAA MAHMOUD
+     MIDNIGHT EARTH OBSERVATORY
+====================================================== -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:071321,50:123B56,100:087E9B&text=ALAA%20MAHMOUD&fontColor=EAF8FF&fontSize=48&fontAlignY=40&desc=EARTH%20SYSTEMS%20%7C%20DATA%20SCIENCE%20%7C%20COMPLEXITY&descSize=13&descAlignY=60&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:00D4D8,50:147A9B,100:050B18" width="100%"/>
 
-### Exploring the complexity of our world.
+<br/>
 
-Data · Systems · Earth · Simulation
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=3500&pause=1000&color=55DCE2&center=true&vCenter=true&width=700&lines=EARTH+SYSTEMS+%2F%2F+HUMAN+SYSTEMS;DATA+SCIENCE+%2F%2F+SPATIAL+ANALYSIS;COMPLEXITY+%2F%2F+COMPUTATIONAL+SIMULATION" />
+
+# ALaa Mahmoud
+
+**EARTH · DATA · COMPLEXITY**
+
+<br/>
+
+<img src="https://img.shields.io/badge/RESEARCH_INTERESTS-0A2638?style=flat-square&labelColor=071522"/>
+<img src="https://img.shields.io/badge/COMPUTATIONAL_EXPLORATION-0A2638?style=flat-square&labelColor=071522"/>
+
+<br/><br/>
 
 </div>
+
+<!-- EARTH AT NIGHT / NASA BLACK MARBLE -->
+
+<a href="https://science.nasa.gov/earth/earth-observatory/earth-at-night/maps/">
+<img src="https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/144000/144898/BlackMarble_2016_01deg.jpg" width="100%" alt="NASA Black Marble Earth at Night satellite map"/>
+</a>
+
+<div align="center">
+
+<sub>01 — EARTH OBSERVATION / HUMAN FOOTPRINT / SATELLITE DATA</sub>
+
+</div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-## ◉ THE SCIENTIFIC LANDSCAPE
+### EARTH AS A CONNECTED SYSTEM
 
-<img src="https://img.shields.io/badge/DATA%20SCIENCE-0A5275?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/COMPLEX%20SYSTEMS-145C73?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EARTH%20SYSTEMS-087E8B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DISASTER%20MODELING-315C85?style=for-the-badge"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:071522,50:18B7C5,100:071522" width="100%"/>
 
 </div>
 
-## 🌍 AREAS OF EXPLORATION
+<div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center">
+<img src="https://img.shields.io/badge/ATMOSPHERE-102C40?style=flat-square"/>
+<img src="https://img.shields.io/badge/HYDROLOGY-102C40?style=flat-square"/>
+<img src="https://img.shields.io/badge/LAND_SYSTEMS-102C40?style=flat-square"/>
+<img src="https://img.shields.io/badge/HUMAN_SYSTEMS-102C40?style=flat-square"/>
 
-### 🌐 Earth Systems
+<br/>
 
-Geospatial Analysis
+<img src="https://img.shields.io/badge/ENVIRONMENT-0B526B?style=flat-square"/>
+<img src="https://img.shields.io/badge/INTERACTIONS-0B526B?style=flat-square"/>
+<img src="https://img.shields.io/badge/DYNAMICS-0B526B?style=flat-square"/>
 
-Environmental Data
+</div>
 
-Spatial Patterns
+<br/>
 
-</td>
-<td width="50%" align="center">
+---
 
-### 🧩 Complex Systems
+<div align="center">
 
-System Dynamics
+### COMPUTATIONAL RESEARCH
 
-Emergent Behavior
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:071522,50:18B7C5,100:071522" width="100%"/>
 
-Human-Environment Interactions
+<br/>
 
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
+<img src="https://skillicons.dev/icons?i=python,r,git,github,vscode&theme=dark" />
 
-### 🌪️ Disaster Modeling
+<br/><br/>
 
-Disaster Risk Analysis
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,linux&theme=dark" />
 
-Risk Assessment
+</div>
 
-Computational Modeling
+<br/>
 
-</td>
-<td width="50%" align="center">
+<div align="center">
 
-### 🤖 Computational Science
+<sub>DATA ANALYSIS</sub>
 
-Machine Learning
+<img src="https://img.shields.io/badge/NUMPY-0B2639?style=flat-square&logo=numpy&logoColor=4DABCF"/>
+<img src="https://img.shields.io/badge/PANDAS-0B2639?style=flat-square&logo=pandas&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/MATPLOTLIB-0B2639?style=flat-square&logo=python&logoColor=4DABCF"/>
+<img src="https://img.shields.io/badge/SCIKIT--LEARN-0B2639?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
 
-Agent-Based Modeling
+<br/><br/>
 
-Simulation
+<sub>GEOSPATIAL SCIENCE</sub>
 
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/QGIS-0B2639?style=flat-square&logo=qgis&logoColor=589632"/>
+<img src="https://img.shields.io/badge/GEOPANDAS-0B2639?style=flat-square&logo=python&logoColor=4DABCF"/>
+<img src="https://img.shields.io/badge/REMOTE_SENSING-0B2639?style=flat-square"/>
 
-## 🔬 SYSTEMS THINKING
+<br/><br/>
+
+<sub>MODELING & SIMULATION</sub>
+
+<img src="https://img.shields.io/badge/NETLOGO-0B2639?style=flat-square"/>
+<img src="https://img.shields.io/badge/AGENT_BASED_MODELING-0B2639?style=flat-square"/>
+<img src="https://img.shields.io/badge/COMPLEX_SYSTEMS-0B2639?style=flat-square"/>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### COMPLEXITY / EMERGENCE / INTERACTIONS
+
+</div>
 
 ```mermaid
-flowchart TD
-    A["🌍 EARTH SYSTEMS"] --> B["Environmental Factors"]
-    A --> C["Human Systems"]
-    B --> D["Complex Interactions"]
-    C --> D
-    D --> E["Disaster Risk"]
-    E --> F["Data Analysis"]
-    F --> G["Computational Models"]
-    G --> H["Simulation & Decision Support"]
+graph TD
+    A["EARTH SYSTEMS"] --> C["INTERCONNECTED SYSTEMS"]
+    B["HUMAN SYSTEMS"] --> C
+    C --> D["COMPLEX INTERACTIONS"]
+    D --> E["EMERGENT BEHAVIOR"]
+    E --> F["COMPUTATIONAL MODELING"]
+    F --> G["SIMULATION"]
 
-    style A fill:#123B56,color:#fff,stroke:#55B8D9
-    style D fill:#145C73,color:#fff,stroke:#55B8D9
-    style E fill:#315C85,color:#fff,stroke:#55B8D9
-    style H fill:#087E8B,color:#fff,stroke:#55B8D9
+    style A fill:#0A3047,color:#EAFBFF,stroke:#25B9C8
+    style B fill:#0A3047,color:#EAFBFF,stroke:#25B9C8
+    style C fill:#07566B,color:#FFFFFF,stroke:#25B9C8
+    style D fill:#0A3047,color:#EAFBFF,stroke:#25B9C8
+    style E fill:#07566B,color:#FFFFFF,stroke:#25B9C8
+    style F fill:#0A3047,color:#EAFBFF,stroke:#25B9C8
+    style G fill:#07566B,color:#FFFFFF,stroke:#25B9C8
 ```
 
-## ⚙️ COMPUTATIONAL TOOLKIT
-
-<div align="center">
-
-### Programming
-<img src="https://skillicons.dev/icons?i=python,r&theme=dark"/>
-
-### Data Science
-<img src="https://skillicons.dev/icons?i=numpy,pytorch,tensorflow&theme=dark"/>
-
-### Geospatial & Simulation
-<img src="https://skillicons.dev/icons?i=qgis&theme=dark"/>
-
-### Development
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark"/>
-
-</div>
-
-## 📡 PROJECTS & EXPLORATIONS
-
-<table>
-<tr>
-<td width="50%">
-
-**01 / GLOBAL DISASTER DATA**
-
-Historical disaster data analysis, temporal patterns, and statistical exploration.
-
-</td>
-<td width="50%">
-
-**02 / GEOSPATIAL RISK**
-
-Spatial analysis, geographic data, and disaster exposure mapping.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**03 / HUMAN BEHAVIOR**
-
-Agent-based approaches to understanding human behavior during disasters.
-
-</td>
-<td width="50%">
-
-**04 / COMPLEX SYSTEMS**
-
-Computational modeling, simulation, and interconnected systems.
-
-</td>
-</tr>
-</table>
-
-## 📊 GITHUB ACTIVITY
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alaamd-1000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=071321"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaamd-1000&layout=compact&theme=tokyonight&hide_border=true&bg_color=071321"/>
-
-<img width="80%" src="https://streak-stats.demolab.com/?user=alaamd-1000&theme=tokyonight&hide_border=true&background=071321"/>
-
-</div>
+<br/>
 
 ---
 
 <div align="center">
 
-### CONNECT
+### RESEARCH LANDSCAPE
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:071522,50:18B7C5,100:071522" width="100%"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/01-EARTH_SYSTEMS-0A2639?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/02-DISASTER_RISK-0A2639?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/03-GEOSPATIAL_ANALYSIS-0A2639?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/04-COMPLEX_SYSTEMS-0A2639?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/05-AGENT_BASED_MODELING-0A2639?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/06-DIGITAL_EARTH-0A2639?style=for-the-badge"/>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### GITHUB / ACTIVITY
+
+<img src="https://github-readme-stats.vercel.app/api?username=alaamd-1000&show_icons=true&hide_border=true&bg_color=071522&title_color=55DCE2&icon_color=22A6B5&text_color=D5E8F0&rank_icon=github" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaamd-1000&layout=compact&hide_border=true&bg_color=071522&title_color=55DCE2&text_color=D5E8F0" width="41%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alaamd-1000&bg_color=071522&color=55DCE2&line=1597B0&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### FIND ME
+
+<a href="https://github.com/alaamd-1000">
+<img src="https://img.shields.io/badge/GITHUB-071522?style=for-the-badge&logo=github&logoColor=EAFBFF"/>
+</a>
 
 <a href="https://instagram.com/alarmed.1000">
-<img src="https://img.shields.io/badge/Instagram-0D1825?style=for-the-badge&logo=instagram&logoColor=E5A4D7"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-071522?style=for-the-badge&logo=instagram&logoColor=EAFBFF"/>
 </a>
 
 <a href="mailto:alaa.md1000@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1825?style=for-the-badge&logo=gmail&logoColor=EA8B8B"/>
+<img src="https://img.shields.io/badge/EMAIL-071522?style=for-the-badge&logo=gmail&logoColor=EAFBFF"/>
 </a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:087E9B,50:123B56,100:071321&height=100&section=footer"/>
-
-**OBSERVE · ANALYZE · MODEL · SIMULATE**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00A6B5,50:0B344B,100:071522" width="100%"/>
 
 </div>
