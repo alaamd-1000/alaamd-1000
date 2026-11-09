@@ -98,22 +98,17 @@ There is always something new to learn, and I enjoy taking the time to understan
 
 ---
 
+
 ## 🚀 Featured Projects
 
 <div align="center">
 
-<!-- Replace the repository names below with your actual project repository names -->
-
-<a href="https://github.com/alaamd-1000/YOUR-PROJECT-1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=alaamd-1000&repo=YOUR-PROJECT-1&theme=github_dark&hide_border=true" />
+<a href="https://github.com/alaamd-1000/Data-Science-Projects">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=alaamd-1000&repo=Data-Science-Projects&theme=github_dark&hide_border=true" />
 </a>
 
-<a href="https://github.com/alaamd-1000/YOUR-PROJECT-2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=alaamd-1000&repo=YOUR-PROJECT-2&theme=github_dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/alaamd-1000/YOUR-PROJECT-3">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=alaamd-1000&repo=YOUR-PROJECT-3&theme=github_dark&hide_border=true" />
+<a href="https://github.com/alaamd-1000/Agent-Based-Modeling">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=alaamd-1000&repo=Agent-Based-Modeling&theme=github_dark&hide_border=true" />
 </a>
 
 </div>
