@@ -5,25 +5,28 @@
 
 **Data Science · Complex Systems · Disaster Modeling**
 
-<br>
-
-Exploring data, computational methods, and the interactions between human and environmental systems.
-
-<br>
-
 </div>
 
----
+<table>
+<tr>
+<td width="62%" valign="top">
 
-### 🌍 Areas of Interest
+### About
 
-- Data Science & Statistical Analysis
-- Complex Systems & Network Analysis
-- Disaster Modeling & Risk Analysis
-- Geospatial Analysis
-- Agent-Based Modeling
+Exploring data science, computational modeling, and the interactions between human and environmental systems.
 
-### 🛠 Tools & Technologies
+My interests include understanding complex systems, analyzing disaster-related data, and exploring computational approaches to real-world challenges.
+
+### Areas of Interest
+
+- 🌍 Earth Systems & Environmental Data
+- 📊 Data Science & Statistical Analysis
+- 🌀 Complex Systems & Network Analysis
+- 🌊 Disaster Risk & Modeling
+- 🧩 Agent-Based Modeling
+- 🗺️ Geospatial Analysis
+
+### Tools & Technologies
 
 **Programming**
 
@@ -43,16 +46,26 @@ Exploring data, computational methods, and the interactions between human and en
 
 **Computational Tools**
 
-`NetworkX` · `SymPy` · `Jupyter Notebook`
+`NetworkX` · `SymPy` · `Jupyter`
 
 **Development**
 
 `VS Code` · `Git` · `GitHub`
 
+</td>
+
+<td width="38%" valign="top">
+
+<img src="./assets/profile-visual.png" width="100%" alt="Profile visual">
+
+</td>
+</tr>
+</table>
+
 ---
 
 <div align="center">
 
-<sub>Learning · Exploring · Building</sub>
+<sub>Python · Data · Modeling · Systems</sub>
 
 </div>
