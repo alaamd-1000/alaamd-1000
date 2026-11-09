@@ -76,17 +76,24 @@ There is always something new to learn, and I enjoy taking the time to understan
 
 ---
 
-<h2 align="center">📊 GitHub Statistics</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alaamd-1000&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=alaamd-1000&theme=github-dark-blue&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alaamd-1000&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&rank_icon=percentile" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaamd-1000&layout=donut&langs_count=6&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 </p>
+
+<h3 align="center">Contribution Activity</h3>
 
 <p align="center">
-  <img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alaamd-1000&theme=github_dark" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=alaamd-1000&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=79C0FF&area=true&hide_border=true&custom_title=Contribution%20Timeline" />
 </p>
 
+<h3 align="center">Profile Summary</h3>
+
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alaamd-1000&theme=github_dark" />
+</p>
 
 ---
 ## Research Interests
